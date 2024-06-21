@@ -5,7 +5,7 @@ My past working experience:Testing and customer aftersale support. I have learne
 linux, docker, ros2(robot operating system 2), MQTT, HaLow, RTK, AWS,Trouble Shooting SOP, Document Writing, Pi motherboard, Agile Development, PingCode, Communicating Skill, Coperating with team members.
 
 ## What will I do in one week?
-Become familiar in Java Programming, and Embeding Programming which is my two priority of career path. I will also consider other options, like test programming and customer support.
+Become familiar in Java Programming, and Embeded Programming which is my two priority of career path. I will also consider other options, like test programming and customer support.
 #### today's plan(0621)
  learning stem32
 
