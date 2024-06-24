@@ -4,13 +4,13 @@ My past working experience:Testing and customer aftersale support. I have learne
 ### What I have learned from my last job.
 linux, docker, ros2(robot operating system 2), MQTT, HaLow, RTK, AWS,Trouble Shooting SOP, Document Writing, Pi motherboard, Agile Development, PingCode, Communicating Skill, Coperating with team members.
 
-## What will I do in one week?
+## Fine, what am I into?
 Become familiar in Java Programming, and Embeded Programming which is my two priority of career path. I will also consider other options, like test programming and customer support.
+I Want To Be A Tech Guy !!
+
 #### today's plan(0621)
  learning stem32
 
-## What will I do in a month?
+## What will I do in a month?(Until 0724)
 Hopefully I could be right fit in friendly team. I want to become skilled in one specifical field like Java Programming or other field.
 Well I mean keep completing my daily tasks
-
-
