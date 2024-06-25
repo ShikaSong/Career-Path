@@ -14,3 +14,7 @@ I Want To Be A Tech Guy !!
 ## What will I do in a month?(Until 0724)
 Hopefully I could be right fit in friendly team. I want to become skilled in one specifical field like Java Programming or other field.
 Well I mean keep completing my daily tasks
+## 0625 Update
+
+I return to my old company which means I continue to work for the same company after I quit the job just a week ago.
+
