@@ -34,4 +34,8 @@ Work is exhausting , I completely lost passion for life and unwilling to keep le
 
 ## 0708 Udate
 
-bad day, Just so bad, because I really don't want a 007 job. That is terrible!!!
+Bad day, Just so bad, because I really don't want a 007 job. That is terrible!!!
+
+## 0709 Update
+
+What do I really WANT?
