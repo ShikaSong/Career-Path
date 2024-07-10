@@ -40,8 +40,15 @@ Bad day, Just so bad, because I really don't want a 007 job. That is terrible!!!
 
 What do I really WANT?
 
-I want to be a technical guy with rich knowledge in as many as possible fields. So far, I want to become a software engineer which has pretty high salary and also with relatively much better respect from other people.
+I want to be a technical guy with rich knowledge in as many as possible fields. So far, I want to become a software engineer who has relatively high salary and also with relatively much better respect from other people.
 To Achieve this goal, what should I do in Ten years! When I am already 34 years old.
 
-> In the year of 2034, I actually don't think there will much coding work for people to do alone. More we use AI to assist us. So what is the key points for the job of a software engineer.  I still think logical thinking and vast knowledge input matters. It will make you think more wisely. A broaden horizon matters. More over, I should be respected as a elder person with rich knowledge base. Instead the others would be very astonished about wow! how can you know that !!
+> In the year of 2034, I actually don't think there will be much coding work for people to do alone. As More we use AI to assist us. So what is the key points for the job of a software engineer.  I still think logical thinking and vast knowledge input matters. It will make you think more wisely. A broaden horizon matters. More over, I should be respected as a elder person with rich knowledge base. Instead the others would be very astonished and say wow! how can you know that !!
 
+## 0710 Update
+
+ Work Life Balance, is essential to back up you going further. 
+
+Electronical, Electrical, Mechanical, I want to learn more about them.
+
+I still need to think about my career path again and again.
