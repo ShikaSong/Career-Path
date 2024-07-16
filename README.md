@@ -52,3 +52,10 @@ To Achieve this goal, what should I do in Ten years! When I am already 34 years 
 Electronical, Electrical, Mechanical, I want to learn more about them.
 
 I still need to think about my career path again and again.
+
+## 0716 Update
+
+Things are going differently towards bad aspects. I really don't want to become a sales person ! I just want to be a technical guy who has the skills to solve all these problems. I need to learn more of technical things instead of just helping the salesman do their work. I really need to start learning embedded system development !
+### I want to start a plan named running away
+
+Things are ready, waiting for next day!!!
